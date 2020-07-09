@@ -1,2 +1,2 @@
 # Agung-Tech
-CD Tutorial Interactive
+Tutorial Interactive
