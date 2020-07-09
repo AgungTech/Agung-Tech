@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backgroundModule>
+	
+	<settings>
+		<activateDynamicBackground>1</activateDynamicBackground>
+		<animationTime>2</animationTime>
+		<animationType>linear</animationType>
+		
+		<random>1</random>
+		
+		<!-- 0 - stretch, 1 - perfect fit with scale up, 2- perfect fit without scalling up, 3 crop -->
+		<resizeMode>3</resizeMode>
+		<imageFinalAlphaValue>100</imageFinalAlphaValue>
+		
+		<activateSlideshow>1</activateSlideshow>
+		<slideShowTimer>30</slideShowTimer>
+	</settings>
+		
+	<content>
+		
+		<item src="../resources/background/1.jpg" ></item>
+		<item src="../resources/background/2.jpg" ></item>
+		<item src="../resources/background/3.jpg" ></item>
+		<item src="../resources/background/4.jpg" ></item>
+		<item src="../resources/background/5.jpg" ></item>
+		<item src="../resources/background/6.jpg" ></item>
+		<item src="../resources/background/7.jpg" ></item>
+		<item src="../resources/background/8.jpg" ></item>
+		<item src="../resources/background/9.jpg" ></item>
+		<item src="../resources/background/10.jpg" ></item>
+		<item src="../resources/background/11.jpg" ></item>
+		<item src="../resources/background/12.jpg" ></item>
+		<item src="../resources/background/13.jpg" ></item>
+		<item src="../resources/background/14.jpg" ></item>
+		<item src="../resources/background/15.jpg" ></item>
+		<item src="../resources/background/16.jpg" ></item>
+		<item src="../resources/background/17.jpg" ></item>
+		<item src="../resources/background/18.jpg" ></item>
+		<item src="../resources/background/19.jpg" ></item>
+		<item src="../resources/background/20.jpg" ></item>
+		<item src="../resources/background/21.jpg" ></item>
+		<item src="../resources/background/22.jpg" ></item>
+		<item src="../resources/background/23.jpg" ></item>
+		<item src="../resources/background/24.jpg" ></item>
+		<item src="../resources/background/25.jpg" ></item>
+		<item src="../resources/background/26.jpg" ></item>
+		<item src="../resources/background/27.jpg" ></item>
+		<item src="../resources/background/28.jpg" ></item>
+		<item src="../resources/background/29.jpg" ></item>
+		<item src="../resources/background/30.jpg" ></item>
+		<item src="../resources/background/31.jpg" ></item>
+		<item src="../resources/background/32.jpg" ></item>
+		<item src="../resources/background/33.jpg" ></item>
+		<item src="../resources/background/34.jpg" ></item>
+		<item src="../resources/background/35.jpg" ></item>
+		<item src="../resources/background/36.jpg" ></item>
+		<item src="../resources/background/37.jpg" ></item>
+		<item src="../resources/background/38.jpg" ></item>
+		<item src="../resources/background/39.jpg" ></item>
+		<item src="../resources/background/40.jpg" ></item>
+		<item src="../resources/background/41.jpg" ></item>
+		<item src="../resources/background/42.jpg" ></item>
+		<item src="../resources/background/43.jpg" ></item>
+	</content>
+	
+	
+</backgroundModule>
+

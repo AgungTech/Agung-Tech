@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<homepage>
+	<settings>
+		<moduleWidth>855</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		<moduleMainTitle>Welcome To Agung Tech Best Moment</moduleMainTitle>
+	</settings>
+	<content>
+		<scrollerBox>
+			<settings>
+				<enableScrollerBox>1</enableScrollerBox>
+				<thumbWidth>220</thumbWidth>
+				<thumbHeight>140</thumbHeight>
+				<toggleProportionalResizeOnThumb>1</toggleProportionalResizeOnThumb>
+				<proportionalResizeType>crop</proportionalResizeType>
+				<horizontalSpace>12</horizontalSpace>
+				<verticalSpace>12</verticalSpace>
+				<horizontalNumberOfItems>1</horizontalNumberOfItems>
+				<verticalNumberOfItems>2</verticalNumberOfItems>
+				<enableScrollerDescription>1</enableScrollerDescription>
+				<enableDefaultText>1</enableDefaultText>
+				<decreaseFromDescriptionWidth>0</decreaseFromDescriptionWidth>
+				<correctDescriptionXPos>0</correctDescriptionXPos>
+				<correctDescriptionYPos>-4</correctDescriptionYPos>
+			</settings>
+			<content>
+				<defaultText>
+					<![CDATA[<p align="center"><font size="14">Pilih Tema Untuk Chatting Bersama di <font color="#00CCFF"><b>Agung Computer</b></font></font></p>]]>
+				</defaultText>
+
+		<item thumb="../resources/sharing/1.jpg" url="chat/Chat1.php" target="_blank">
+			<![CDATA[<p align="center"><font size="20"><font color="#555555">Night</font> Theme</font></p>]]>
+		</item>
+
+		<item thumb="../resources/sharing/2.jpg" url="chat/Chat2.php" target="_blank">
+			<![CDATA[<p align="center"><font size="20"><font color="#00BBDD">Day</font> Theme</font></p>]]>
+		</item>
+
+		<item thumb="../resources/sharing/3.jpg" url="chat/Chat3.php" target="_blank">
+			<![CDATA[<p align="center"><font size="20"><font color="#FF00AA">Pink</font> theme</font></p>]]>
+		</item>
+
+		<item thumb="../resources/sharing/4.jpg" url="chat/Chat4.php" target="_blank">
+			<![CDATA[<p align="center"><font size="20"><font color="#00CC55">Classic</font> Theme</font></p>]]>
+		</item>
+
+			</content>
+		</scrollerBox>
+		<mainDescription>
+			<settings>
+				<enableMainDescription>1</enableMainDescription>				
+				<descriptionHeight>100</descriptionHeight>
+			</settings>
+			<content>
+				<![CDATA[
+				<p align="justify"><font color="#00CCFF"><b>
+				Halo Sahabat, Selamat datang di Agung Tech. Kenangan Anda bersama Agung Computer dan teman - teman Peraktek Kerja Industri ada di sini.<br/>
+				Software ini kami buat sebagai kado perpisahan, setelah lulus dari tempat Prakerin di Agung Computer, yang merupakan salah satu tempat belajar Anda.<br/>
+				Tujuan kami membuat software ini adalah untuk mangharapkan Anda dapat mempelajari seluruh materi yang diberikan di tempat Prakerin dan Sekolah Anda, karena banyak di antara kalian yang hanya memahami sedikit / sebagian dari materi yang diajarkan di tempat Prakerin. 
+				Dan untuk mengingat lagi kenangan Anda pada masa Prakerin sebagai salah satu kenangan terindah dalam hidup Anda, karena kita sekarang berada di tempat berbeda, rasa rindu akan teman-teman Anda cepat atau lambat pasti akan terasa, dan untuk itu kami membuat Fitur "Online Chat" agar Anda dapat saling berkomunikasi dengan teman-teman Anda selain media Sosial Facebook atau yang lain, dan juga Fitur "kontak" agar Anda dapat berkomunikasi dengan Agung Computer.<br/>
+				Semoga dengan adanya software ini dapat sangat berharga dan bermanfaat untuk Anda. Karena Anda bagian dari kami, seberapa besar keinginan kami dan berapa banyak waktu yang diperlukan untuk membuat dari awal sampai selesai. Ini semua demi Anda dan masa depan Anda.....<br/>
+				-(^-^)-</b></font>
+				</p>]]>
+			</content>
+		</mainDescription>
+		<products>
+			<settings>
+				<enableProductsDisplay>1</enableProductsDisplay>
+				<horizontalNumberOfItems>2</horizontalNumberOfItems>
+				<slideProductsAnimationTime>0.6</slideProductsAnimationTime>
+				<slideProductsAnimationType>easeinoutquart</slideProductsAnimationType>
+				<enableOverActionsOnButtons>1</enableOverActionsOnButtons>
+				<title>Semua Fitur Versi Beta 2.0 :</title>
+			</settings>
+			<content>
+				
+		
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Online Chatting : </font>Night, Day, Pink, Classic.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">MP3 Player : </font>Band Indonesia.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Video Player : </font>Standart.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Interactive Learning : </font>Teks, Gambar, Web.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Materi : </font>- Kurikulum Lama (RPL, TKJ, MM).</b></p>
+					<p><b>----------- Kurikulum 2013 (Kelas X & XI).</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Galeri : </font>Foto, Video.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Banner Rotator : </font>Slide Show Foto.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Shopping : </font>Penjualan Agung Computer. [Coming Soon]</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Kontak : </font>Kontak ke Agung Computer.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Background : </font>Transisi Gambar 50+ tiap 30s.</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Games : </font>2D, 3D.[Coming Soon]</b></p>]]>
+				</item>
+
+				<item toggleLaunchUrl="0" url="" target="">
+					<![CDATA[<p><b><font color="#00CCFF">Tema : </font>Dark, Light Color.</b></p>]]>
+				</item>
+			
+			</content>
+		</products>
+	</content>
+</homepage>

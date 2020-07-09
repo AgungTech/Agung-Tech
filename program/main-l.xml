@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+	<settings>
+		<urlTitleSeparator>-</urlTitleSeparator>
+		
+		<templateMaxWidth>224</templateMaxWidth>
+		<templateMaxHeight>300</templateMaxHeight>
+	
+		<logoAddress>../resources/logo-l.png</logoAddress>
+		<correctLogoXPos>0</correctLogoXPos>
+		<correctLogoYPos>0</correctLogoYPos>
+		
+		<!-- left, center, right -->
+		<menuPosition>center</menuPosition>
+		<correctMenuXpos>0</correctMenuXpos>
+		<correctMenuYPos>0</correctMenuYPos>
+		
+		<displayTopGraphic>1</displayTopGraphic>
+	
+		<displayBottomGraphic>1</displayBottomGraphic>
+		
+		<displayModuleBehindGraphic>1</displayModuleBehindGraphic>
+		
+		<displayModuleTitleGraphic>1</displayModuleTitleGraphic>
+		
+		<enableFullScreenButton>1</enableFullScreenButton>
+		
+		<backgroundSlideShowXmlFile>background-l.xml</backgroundSlideShowXmlFile>
+		
+		<copyrightTitle>
+			<![CDATA[© Copyright  2015,<a href="http://agung-tech.blogspot.com"> Agung Tech</a> ]]>
+		</copyrightTitle>
+		
+		<copyrightLeftMinSpace>50</copyrightLeftMinSpace>
+		<copyrightRightMinSpace>50</copyrightRightMinSpace>
+	
+		<mp3PlayerSwf>pemutar_musik-l.lnk</mp3PlayerSwf>
+		<mp3PlayerXml>pemutar_musik.xml</mp3PlayerXml>
+		<mp3PlayerAdjustXPos>0</mp3PlayerAdjustXPos>
+		<mp3PlayerAdjustYPos>10</mp3PlayerAdjustYPos>
+		
+		<!-- left, center, right, alignWithMenu -->
+		<moduleXPosition>center</moduleXPosition>
+		<moduleAdjustXPosition>0</moduleAdjustXPosition>
+		
+		
+		<moduleShowAnimationTime>.5</moduleShowAnimationTime>
+		<moduleShowAnimationType>easeOutQuart</moduleShowAnimationType>
+		
+		<moduleHideAnimationTime>.9</moduleHideAnimationTime>
+		<moduleHideAnimationType>easeOutQuart</moduleHideAnimationType>
+		
+		
+		
+		<toggleTooltip>1</toggleTooltip>
+		<tooltipXCorrect>13</tooltipXCorrect>
+		<tooltipYCorrect>10</tooltipYCorrect>
+			
+		<fsButtonOpenCaption>Ke Menu Utama</fsButtonOpenCaption>
+		
+		<fsButtonCloseCaption>Ke Menu Utama</fsButtonCloseCaption>
+		
+		
+
+		<mainMenuMovingBgAnimationTime>0.5</mainMenuMovingBgAnimationTime>
+		<mainMenuMovingBgAnimationType>easeOutQuart</mainMenuMovingBgAnimationType>
+	</settings>
+	
+
+	<mainMenu>
+		<settings>
+			<firstLevelButtonWidth>12</firstLevelButtonWidth>
+			<firstLevelButtonHeight>10</firstLevelButtonHeight>
+			
+			<secondLevelButtonWidth>0</secondLevelButtonWidth>
+			<secondLevelButtonHeight>6</secondLevelButtonHeight>
+			
+			<subMenuXDistance>0</subMenuXDistance>
+			<subMenuYDistance>35</subMenuYDistance>
+			
+			<subMenuAddedWidth>20</subMenuAddedWidth>
+			<subMenuMaxHeight>150</subMenuMaxHeight>
+			
+			<subMenuOpenAnimTime>0.5</subMenuOpenAnimTime>
+			<subMenuOpenAnimType>easeoutexpo</subMenuOpenAnimType>
+
+			<scrollerAccelerationMultiplier>5</scrollerAccelerationMultiplier>
+		</settings>
+
+		<content>
+
+			<button title="Home"
+				swfData="halaman_depan-l.lnk?xml=halaman_depan.xml"
+				urlTitle="Home"
+				url="/home/" 
+				externalLink="0"
+				 hiddenModule="0"
+				
+				toggleSubMenu="0"
+				type="">					
+
+
+				<subMenu>
+					
+				</subMenu>				
+
+			</button>
+
+			<button title="Materi"
+				swfData="" 
+				urlTitle="Materi" 
+				url="" 
+				externalLink="0" 
+				hiddenModule="0"  
+				
+				toggleSubMenu="1"
+				type="">					
+
+				<subMenu>
+
+					<button title="Kurikulum Lama" 
+						swfData="materi-l.lnk?xml=materi.xml" 
+						urlTitle="Kurikulum Lama" 
+						url="/kurikulum-lama/" 
+						externalLink="0"
+						 hiddenModule="0"
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Kurikulum 2013" 
+						swfData="materi-l.lnk?xml=materi(2013).xml"
+						urlTitle="Kurikulum 2013" 
+						url="/kurikulum-2013/" 
+						externalLink="0"
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+				</subMenu>				
+				
+			</button>
+
+			<button title="Galeri" 
+				swfData="" 
+				urlTitle="Galeri" 
+				url="" 
+				 
+				 hiddenModule="0"  
+				
+				toggleSubMenu="1"
+				type="">					
+
+
+				<subMenu>
+
+					<button title="Juni" 
+						swfData="galeri-l.lnk?xml=galeri.xml" 
+						urlTitle="Juni" 
+						url="/galeri/" 
+						externalLink="0"
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Nopember" 
+						swfData="galeri-l.lnk?xml=galeri2.xml" 
+						urlTitle="Nopember" 
+						url="/galeri2/" 
+						externalLink="0" 
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Desember" 
+						swfData="galeri-l.lnk?xml=galeri3.xml" 
+						urlTitle="Desember" 
+						url="/galeri3/" 
+						externalLink="0" 
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Video" 
+						swfData="galeri-l.lnk?xml=galeri-video.xml" 
+						urlTitle="Video" 
+						url="/video1/" 
+						externalLink="0" 
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+				</subMenu>				
+
+			</button>
+
+			<button title="Tentang" 
+				swfData="" 
+				urlTitle="Tentang" 
+				url="" 
+				externalLink="0" 
+				 hiddenModule="0"  
+				
+				toggleSubMenu="1"
+				type="">					
+
+
+				<subMenu>
+
+					<button title="Tim" 
+						swfData="tentang_orang-l.lnk?xml=tentang_orang.xml" 
+						urlTitle="Biografi" 
+						url="/biografi/" 
+						externalLink="0" 
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Lokasi" 
+						swfData="tentang_tempat-l.lnk?xml=tentang_tempat.xml" 
+						urlTitle="Lokasi" 
+						url="/lokasi/" 
+						externalLink="0" 
+						 hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+				</subMenu>				
+
+			</button>
+
+			<button title="Kontak" 
+				swfData="kontak-l.lnk?xml=kontak.xml" 
+				urlTitle="Kontak"
+				url="/kontak/"
+				externalLink="0" 
+				 hiddenModule="0"  
+				
+				toggleSubMenu="0"
+				type="">					
+
+
+				<subMenu>
+					
+				</subMenu>				
+
+			</button>
+
+			<button title="Bantuan" 
+				swfData="" 
+				urlTitle="Bantuan" 
+				url="" 
+				hiddenModule="1"  		
+				toggleSubMenu="1"
+				type="">					
+
+				<subMenu>
+					
+					<button title="Penggunaan" 
+						swfData="about-l.lnk?xml=ab-penggunaan.xml"
+						urlTitle="Penggunaan" 
+						url="/penggunaan/" 
+						externalLink="0" 
+						hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Fitur" 
+						swfData="about-l.lnk?xml=ab-fitur.xml" 
+						urlTitle="Fitur" 
+						url="/fitur/" 
+						externalLink="0" 
+						hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+					<button title="Lisensi" 
+						swfData="about-l.lnk?xml=ab-lisensi.xml" 
+						urlTitle="Lisensi" 
+						url="/lisensi/"
+						externalLink="0" 
+						hiddenModule="0"  
+						
+						toggleSubMenu="0"
+						type="">
+					</button>
+
+
+				</subMenu>				
+
+			</button>
+
+			<button title="Pemesanan" 
+				swfData="pemesanan-l.lnk" 
+				urlTitle="Lihat Pesanan Saya" 
+				url="pemesanan" 
+				externalLink="0" 
+				externalTarget="_blank" 
+				hiddenModule="1"
+				toggleSubMenu="0"
+				type="cart"
+				>
+				
+				<subMenu>
+							
+				</subMenu>
+				
+			</button>
+
+		</content>
+	</mainMenu>
+
+	
+	<shoppingCart>
+		<settings>
+			<moduleWidth>880</moduleWidth>
+			<moduleHeight>320</moduleHeight>
+			<moduleMainTitle>Konten Pesanan</moduleMainTitle>
+			<currency>Rp.</currency>
+			<currencyPosition>sebelumnya</currencyPosition>
+			<continueShoppingCaption>LANJUTKAN SHOPPING </continueShoppingCaption>
+			<checkoutCaption>CHECKOUT</checkoutCaption>
+			<titleCaption>BARANG</titleCaption>
+			<priceCaption>HARGA</priceCaption>
+			<quantityCaption>QUANTITY</quantityCaption>
+			<totalCaption>TOTAL</totalCaption>
+			<priceColumnWidth>100</priceColumnWidth>
+			<quantityColumnWidth>110</quantityColumnWidth>
+			<totalColumnWidth>115</totalColumnWidth>
+			<continueShoppingCaption>LANJUTKAN SHOPPING </continueShoppingCaption>
+			<checkoutCaption>CHECKOUT</checkoutCaption>
+			<sendScript>../../../checkout.php</sendScript>
+			<topCartLastProductsCaption>BARANG TERAKHIR YANG DIBELI</topCartLastProductsCaption>
+			<topCartViewFullCartCaption>LIHAT/UBAH PESANAN</topCartViewFullCartCaption>
+
+			<totalCaptionOnTop>TOTAL: </totalCaptionOnTop>			
+			<totalCaptionOnBottom>GRAND TOTAL: </totalCaptionOnBottom>
+			<topCartCheckoutButton>CHECKOUT</topCartCheckoutButton>
+			<emptyCartCaption><![CDATA[<font color="#afafaf" size="14">Anda bisa melihat barang di penjualan</font><br/>
+<font color="#636363" size="12">Penjualan Agung Computer</font>]]></emptyCartCaption>
+			<bottomCartButtonCaption>Pembelian</bottomCartButtonCaption>
+			<cartPosition></cartPosition>
+			<cartRemoveCaption>Batalkan Pesanan</cartRemoveCaption>
+
+			<checkoutHandledByAdmin>0</checkoutHandledByAdmin>
+			<paypalUrl>https://www.paypal.com/cgi-bin/webscr</paypalUrl>
+			<currencyCode>Rupiah</currencyCode>
+			<businessEmail>paypal@agung-tech.web</businessEmail>
+			<skuName>SKU</skuName>
+
+		</settings>
+	</shoppingCart>
+	
+	<shareOptions>
+		<settings>
+			<enabled>1</enabled>
+			<correctPosX>30</correctPosX>
+			<correctPosY>2</correctPosY>
+			
+			<bigButtonsWidth>25</bigButtonsWidth>
+			<bigButtonsHeight>28</bigButtonsHeight>
+			<spaceBetweenBigButtons>5</spaceBetweenBigButtons>
+			
+			<toggleTooltip>1</toggleTooltip>
+			<tooltipXCorrect>13</tooltipXCorrect>
+			<tooltipYCorrect>10</tooltipYCorrect>
+			
+			<correctSmallListXPos>0</correctSmallListXPos>
+			<correctSmallListYPos>3</correctSmallListYPos>
+			
+			<smallListWidth>195</smallListWidth>
+			
+			<animationTimeForSmallList>0.5</animationTimeForSmallList>
+			<animationTypeForSmallList>easeoutexpo</animationTypeForSmallList>
+			
+			<animationTimeCloseForSmallList>0.5</animationTimeCloseForSmallList>
+			<animationTypeCloseForSmallList>easeinexpo</animationTypeCloseForSmallList>
+			
+			<smallButtonsWidth>16</smallButtonsWidth>
+			<smallButtonsHeight>16</smallButtonsHeight>
+			<spaceBetweenSmallButtons>6</spaceBetweenSmallButtons>
+			<scrollerAccelerationMultiplierForSmallList>2</scrollerAccelerationMultiplierForSmallList>
+		</settings>
+
+		<contentBigButtons>
+		
+		
+			<item url="chat/Chat1.php" target="" src="../resources/sharing/1.png">
+				<![CDATA[Agung Computer Dark Chat]]>
+			</item>
+
+			<item url="chat/Chat2.php" target="html" src="../resources/sharing/2.png">
+				<![CDATA[Agung Computer Day Chat]]>
+			</item>
+
+			<item url="chat/Chat3.php" target="" src="../resources/sharing/3.png">
+				<![CDATA[Agung Computer Pink Chat]]>
+			</item>
+
+			<item url="chat/Chat4.php" target="" src="../resources/sharing/4.png">
+				<![CDATA[Agung Computer Classic Chat]]>
+			</item>
+
+
+		</contentBigButtons>
+
+		<contentSmallButtons>
+		
+		
+			<item url="http://blinklist.com" target="" src="../resources/sharing/blinklist.png">
+				<![CDATA[BlinkList.com - Discover, Blink & Share]]>
+			</item>
+
+			<item url="http://delicious.com/" target="" src="../resources/sharing/delicious.png">
+				<![CDATA[Bookmark di Del.icio.us]]>
+			</item>
+
+			<item url="http://flickr.com/" target="" src="../resources/sharing/flickr.png">
+				<![CDATA[Buka Foto Anda di Flickr]]>
+			</item>
+
+			<item url="http://linkedin.com/" target="" src="../resources/sharing/linkedin.png">
+				<![CDATA[Konek ke Linkedin]]>
+			</item>
+
+			<item url="http://youtube.com/" target="" src="../resources/sharing/youtube.png">
+				<![CDATA[Buka Youtube Channel Anda]]>
+			</item>
+
+			<item url="http://vimeo.com/" target="" src="../resources/sharing/vimeo.png">
+				<![CDATA[Buka Vimeo Channel Anda]]>
+			</item>
+
+			<item url="http://technorati.com/" target="" src="../resources/sharing/technorati.png">
+				<![CDATA[Tulis Biografi Anda di Technorati]]>
+			</item>
+
+			<item url="http://www.diigo.com" target="" src="../resources/sharing/furl.png">
+				<![CDATA[ke Furl]]>
+			</item>
+
+			<item url="http://www.designfloat.com" target="" src="../resources/sharing/design_float.png">
+				<![CDATA[DesignFloat  - Web Design News & Tips]]>
+			</item>
+
+			<item url="http://dopplr.com" target="" src="../resources/sharing/dopplr.png">
+				<![CDATA[Dopplr  | Rencanakan perjalanan, saran & petunjuk untuk perjalanan cerdas]]>
+			</item>
+
+			<item url="http://friendfeed.com" target="" src="../resources/sharing/friendfeed.png">
+				<![CDATA[Friend Feed]]>
+			</item>
+
+
+			<item url="http://www.gamespot.com" target="" src="../resources/sharing/gamespot.png">
+				<![CDATA[GameSpot]]>
+			</item>
+
+			<item url="http://www.last.fm" target="" src="../resources/sharing/lastfm.png">
+				<![CDATA[Last.fm  - Mendengarkan musik gratis dengan radio internet]]>
+			</item>
+
+			<item url="http://sphinn.com" target="" src="../resources/sharing/sphinn.png">
+				<![CDATA[Sphinn - Berita, Forum Diskusi & Networking]]>
+			</item>
+
+			<item url="http://www.TripAdvisor.com" target="" src="../resources/sharing/tripadvisor.png">
+				<![CDATA[Hotel dan Ulasan Liburan]]>
+			</item>
+
+		</contentSmallButtons>
+	</shareOptions>
+
+</main>

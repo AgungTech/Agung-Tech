@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<settings>
+		<moduleWidth>880</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		
+		<moduleMainTitle>Galeri Desember</moduleMainTitle>
+		
+		<maxNumberOfButtonsOnTopMenu>3</maxNumberOfButtonsOnTopMenu>
+		<horizontalSpaceOnTopMenuButtons>10</horizontalSpaceOnTopMenuButtons>
+		
+		<topMaskInitializationAnimationTime>2</topMaskInitializationAnimationTime>
+		<topMaskInitializationAnimationType>easeoutquart</topMaskInitializationAnimationType>
+		
+		<topMaskAnimationTime>0.5</topMaskAnimationTime>
+		<topMaskAnimationType>easeoutquart</topMaskAnimationType>
+
+		<detailsShowAnimationTime>0.5</detailsShowAnimationTime>
+		<detailsShowAnimationType>easeoutquart</detailsShowAnimationType>
+
+		<detailsHideAnimationTime>0.5</detailsHideAnimationTime>
+		<detailsHideAnimationType>easeoutquart</detailsHideAnimationType>
+	</settings>
+	
+	<content>
+
+		<item title="Mojosulur Part 1" browserUrl="/mojosulur-part-1/" browserTitle="Mojosulur Part 1">
+			<productsDisplay>
+				<settings>						
+					<thumbWidth>91</thumbWidth>
+					<thumbHeight>68</thumbHeight>
+					
+					<toggleProportionalResizeOnThumb>1</toggleProportionalResizeOnThumb>
+					
+					<proportionalResizeType>crop</proportionalResizeType>
+					
+					<horizontalSpace>8</horizontalSpace>
+					<verticalSpace>8</verticalSpace>
+					
+					<graphWidth>35</graphWidth>
+					<graphHeight>35</graphHeight>
+					<videoGraf>IDvideoGraph</videoGraf>
+					<pictureGraf>IDimageGraph</pictureGraf>
+					<swfGraf>IDswfGraph</swfGraf>
+					<audioGraf>IDmusicGraph</audioGraf>
+					<youtubeGraf>IDvideoGraph</youtubeGraf>
+					
+					<videoCaption>PLAY</videoCaption>
+					<youtubeCaption>YOUTUBE</youtubeCaption>
+					<imageCaption>LIHAT</imageCaption>
+					<audioCaption>MP3</audioCaption>
+					<swfCaption>SWF</swfCaption>
+					
+					<enableAutoCentering>0</enableAutoCentering>
+					
+					<horizontalNumberOfItems>7</horizontalNumberOfItems>
+					<verticalNumberOfItems>3</verticalNumberOfItems>
+					
+					<scrollAnimationTime>0.5</scrollAnimationTime>
+					<scrollAnimationType>easeoutquart</scrollAnimationType>
+					
+					<toggleTooltip>1</toggleTooltip>
+					<enableTooltipAutoCorrectX>0</enableTooltipAutoCorrectX>
+					<tooltipXCorrect>30</tooltipXCorrect>
+					<tooltipYCorrect>10</tooltipYCorrect>
+
+					<popupWidth>504</popupWidth>
+					<popupHeight>398</popupHeight>
+					
+					<animationAlpha>100</animationAlpha>
+					<animationScale>100</animationScale>
+					
+					<popupProtectTransparency>90</popupProtectTransparency>
+					<popupProtectAnimationTime>0.9</popupProtectAnimationTime>
+					
+					<popupShowAnimationTime>1</popupShowAnimationTime>
+					<popupShowAnimationType>easeoutquart</popupShowAnimationType>
+					
+					<popupHideAnimationTime>1</popupHideAnimationTime>
+					<popupHideAnimationType>easeoutquart</popupHideAnimationType>
+					
+					<popupResizeAnimationTime>0.5</popupResizeAnimationTime>
+					<popupResizeAnimationType>easeinback</popupResizeAnimationType>
+				</settings>
+				<content>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/001.jpg">
+						<tooltipData><![CDATA[001]]></tooltipData>
+						<pupupData title="001" browserUrl="/001-1/" browserTitle="001">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/001.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/002.jpg">
+						<tooltipData><![CDATA[002]]></tooltipData>
+						<pupupData title="002" browserUrl="/002-1/" browserTitle="002">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/002.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/003.jpg">
+						<tooltipData><![CDATA[003]]></tooltipData>
+						<pupupData title="003" browserUrl="/003-1/" browserTitle="003">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/003.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/004.jpg">
+						<tooltipData><![CDATA[004]]></tooltipData>
+						<pupupData title="004" browserUrl="/004-1/" browserTitle="004">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/004.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/005.jpg">
+						<tooltipData><![CDATA[005]]></tooltipData>
+						<pupupData title="005" browserUrl="/005-1/" browserTitle="005">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/005.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/006.jpg">
+						<tooltipData><![CDATA[006]]></tooltipData>
+						<pupupData title="006" browserUrl="/006-1/" browserTitle="006">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/006.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/007.jpg">
+						<tooltipData><![CDATA[007]]></tooltipData>
+						<pupupData title="007" browserUrl="/007-1/" browserTitle="007">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/007.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/008.jpg">
+						<tooltipData><![CDATA[008]]></tooltipData>
+						<pupupData title="008" browserUrl="/008-1/" browserTitle="008">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/008.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/009.jpg">
+						<tooltipData><![CDATA[009]]></tooltipData>
+						<pupupData title="009" browserUrl="/009-1/" browserTitle="009">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/009.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/010.jpg">
+						<tooltipData><![CDATA[010]]></tooltipData>
+						<pupupData title="010" browserUrl="/010-1/" browserTitle="010">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/010.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/011.jpg">
+						<tooltipData><![CDATA[011]]></tooltipData>
+						<pupupData title="011" browserUrl="/011-1/" browserTitle="011">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/011.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/012.jpg">
+						<tooltipData><![CDATA[012]]></tooltipData>
+						<pupupData title="012" browserUrl="/012-1/" browserTitle="012">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/012.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/013.jpg">
+						<tooltipData><![CDATA[013]]></tooltipData>
+						<pupupData title="013" browserUrl="/013-1/" browserTitle="013">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/013.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/014.jpg">
+						<tooltipData><![CDATA[014]]></tooltipData>
+						<pupupData title="014" browserUrl="/014-1/" browserTitle="014">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/014.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/015.jpg">
+						<tooltipData><![CDATA[015]]></tooltipData>
+						<pupupData title="015" browserUrl="/015-1/" browserTitle="015">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/015.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/016.jpg">
+						<tooltipData><![CDATA[016]]></tooltipData>
+						<pupupData title="016" browserUrl="/016-1/" browserTitle="016">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/016.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/017.jpg">
+						<tooltipData><![CDATA[017]]></tooltipData>
+						<pupupData title="017" browserUrl="/017-1/" browserTitle="017">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/017.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/018.jpg">
+						<tooltipData><![CDATA[018]]></tooltipData>
+						<pupupData title="018" browserUrl="/018-1/" browserTitle="018">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/018.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/019.jpg">
+						<tooltipData><![CDATA[019]]></tooltipData>
+						<pupupData title="019" browserUrl="/019-1/" browserTitle="019">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/019.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/020.jpg">
+						<tooltipData><![CDATA[020]]></tooltipData>
+						<pupupData title="020" browserUrl="/020-1/" browserTitle="020">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/020.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/021.jpg">
+						<tooltipData><![CDATA[021]]></tooltipData>
+						<pupupData title="021" browserUrl="/021-1/" browserTitle="021">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/021.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/022.jpg">
+						<tooltipData><![CDATA[022]]></tooltipData>
+						<pupupData title="022" browserUrl="/022-1/" browserTitle="022">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/022.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/023.jpg">
+						<tooltipData><![CDATA[023]]></tooltipData>
+						<pupupData title="023" browserUrl="/023-1/" browserTitle="023">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/023.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/024.jpg">
+						<tooltipData><![CDATA[024]]></tooltipData>
+						<pupupData title="024" browserUrl="/024-1/" browserTitle="024">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/024.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/025.jpg">
+						<tooltipData><![CDATA[025]]></tooltipData>
+						<pupupData title="025" browserUrl="/025-1/" browserTitle="025">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/025.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/026.jpg">
+						<tooltipData><![CDATA[026]]></tooltipData>
+						<pupupData title="026" browserUrl="/026-1/" browserTitle="026">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/026.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/027.jpg">
+						<tooltipData><![CDATA[027]]></tooltipData>
+						<pupupData title="027" browserUrl="/027-1/" browserTitle="027">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/027.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/028.jpg">
+						<tooltipData><![CDATA[028]]></tooltipData>
+						<pupupData title="028" browserUrl="/028-1/" browserTitle="028">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/028.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+				</content>
+			</productsDisplay>
+			
+		</item>
+
+		<item title="Mojosulur Part 2" browserUrl="/mojosulur-part-2/" browserTitle="Mojosulur Part 2">
+			<productsDisplay>
+				<settings>						
+					<thumbWidth>91</thumbWidth>
+					<thumbHeight>68</thumbHeight>
+					
+					<toggleProportionalResizeOnThumb>1</toggleProportionalResizeOnThumb>
+					
+					<proportionalResizeType>crop</proportionalResizeType>
+					
+					<horizontalSpace>8</horizontalSpace>
+					<verticalSpace>8</verticalSpace>
+					
+					<graphWidth>35</graphWidth>
+					<graphHeight>35</graphHeight>
+					<videoGraf>IDvideoGraph</videoGraf>
+					<pictureGraf>IDimageGraph</pictureGraf>
+					<swfGraf>IDswfGraph</swfGraf>
+					<audioGraf>IDmusicGraph</audioGraf>
+					<youtubeGraf>IDvideoGraph</youtubeGraf>
+					
+					<videoCaption>PLAY</videoCaption>
+					<youtubeCaption>YOUTUBE</youtubeCaption>
+					<imageCaption>LIHAT</imageCaption>
+					<audioCaption>MP3</audioCaption>
+					<swfCaption>SWF</swfCaption>
+					
+					<enableAutoCentering>0</enableAutoCentering>
+					
+					<horizontalNumberOfItems>7</horizontalNumberOfItems>
+					<verticalNumberOfItems>3</verticalNumberOfItems>
+					
+					<scrollAnimationTime>0.5</scrollAnimationTime>
+					<scrollAnimationType>easeoutquart</scrollAnimationType>
+					
+					<toggleTooltip>1</toggleTooltip>
+					<enableTooltipAutoCorrectX>0</enableTooltipAutoCorrectX>
+					<tooltipXCorrect>30</tooltipXCorrect>
+					<tooltipYCorrect>10</tooltipYCorrect>
+
+					<popupWidth>504</popupWidth>
+					<popupHeight>398</popupHeight>
+					
+					<animationAlpha>100</animationAlpha>
+					<animationScale>100</animationScale>
+					
+					<popupProtectTransparency>90</popupProtectTransparency>
+					<popupProtectAnimationTime>0.9</popupProtectAnimationTime>
+					
+					<popupShowAnimationTime>1</popupShowAnimationTime>
+					<popupShowAnimationType>easeoutquart</popupShowAnimationType>
+					
+					<popupHideAnimationTime>1</popupHideAnimationTime>
+					<popupHideAnimationType>easeoutquart</popupHideAnimationType>
+					
+					<popupResizeAnimationTime>0.5</popupResizeAnimationTime>
+					<popupResizeAnimationType>easeinback</popupResizeAnimationType>
+				</settings>
+				<content>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/029.jpg">
+						<tooltipData><![CDATA[029]]></tooltipData>
+						<pupupData title="029" browserUrl="/029-1/" browserTitle="029">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/029.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/030.jpg">
+						<tooltipData><![CDATA[030]]></tooltipData>
+						<pupupData title="030" browserUrl="/030-1/" browserTitle="030">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/030.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/031.jpg">
+						<tooltipData><![CDATA[031]]></tooltipData>
+						<pupupData title="031" browserUrl="/031-1/" browserTitle="031">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/031.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/032.jpg">
+						<tooltipData><![CDATA[032]]></tooltipData>
+						<pupupData title="032" browserUrl="/032-1/" browserTitle="032">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/032.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/033.jpg">
+						<tooltipData><![CDATA[033]]></tooltipData>
+						<pupupData title="033" browserUrl="/033-1/" browserTitle="033">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/033.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/034.jpg">
+						<tooltipData><![CDATA[034]]></tooltipData>
+						<pupupData title="034" browserUrl="/034-1/" browserTitle="034">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/034.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/035.jpg">
+						<tooltipData><![CDATA[035]]></tooltipData>
+						<pupupData title="035" browserUrl="/035-1/" browserTitle="035">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/035.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/036.jpg">
+						<tooltipData><![CDATA[036]]></tooltipData>
+						<pupupData title="036" browserUrl="/036-1/" browserTitle="036">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/036.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/037.jpg">
+						<tooltipData><![CDATA[037]]></tooltipData>
+						<pupupData title="037" browserUrl="/037-1/" browserTitle="037">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/037.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/038.jpg">
+						<tooltipData><![CDATA[038]]></tooltipData>
+						<pupupData title="038" browserUrl="/038-1/" browserTitle="038">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/038.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/039.jpg">
+						<tooltipData><![CDATA[039]]></tooltipData>
+						<pupupData title="039" browserUrl="/039-1/" browserTitle="039">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/039.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/040.jpg">
+						<tooltipData><![CDATA[040]]></tooltipData>
+						<pupupData title="040" browserUrl="/040-1/" browserTitle="040">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/040.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/041.jpg">
+						<tooltipData><![CDATA[041]]></tooltipData>
+						<pupupData title="041" browserUrl="/041-1/" browserTitle="041">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/041.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/042.jpg">
+						<tooltipData><![CDATA[042]]></tooltipData>
+						<pupupData title="042" browserUrl="/042-1/" browserTitle="042">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/042.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/043.jpg">
+						<tooltipData><![CDATA[043]]></tooltipData>
+						<pupupData title="043" browserUrl="/043-1/" browserTitle="043">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/043.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/044.jpg">
+						<tooltipData><![CDATA[044]]></tooltipData>
+						<pupupData title="044" browserUrl="/044-1/" browserTitle="044">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/044.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/045.jpg">
+						<tooltipData><![CDATA[045]]></tooltipData>
+						<pupupData title="045" browserUrl="/045-1/" browserTitle="045">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/045.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/046.jpg">
+						<tooltipData><![CDATA[046]]></tooltipData>
+						<pupupData title="046" browserUrl="/046-1/" browserTitle="046">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/046.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/047.jpg">
+						<tooltipData><![CDATA[047]]></tooltipData>
+						<pupupData title="047" browserUrl="/047-1/" browserTitle="047">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/047.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/048.jpg">
+						<tooltipData><![CDATA[048]]></tooltipData>
+						<pupupData title="048" browserUrl="/048-1/" browserTitle="048">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/048.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/049.jpg">
+						<tooltipData><![CDATA[049]]></tooltipData>
+						<pupupData title="049" browserUrl="/049-1/" browserTitle="049">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/049.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/050.jpg">
+						<tooltipData><![CDATA[050]]></tooltipData>
+						<pupupData title="050" browserUrl="/050-1/" browserTitle="050">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/050.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/051.jpg">
+						<tooltipData><![CDATA[051]]></tooltipData>
+						<pupupData title="051" browserUrl="/051-1/" browserTitle="051">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/051.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/052.jpg">
+						<tooltipData><![CDATA[052]]></tooltipData>
+						<pupupData title="052" browserUrl="/052-1/" browserTitle="052">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/052.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/053.jpg">
+						<tooltipData><![CDATA[053]]></tooltipData>
+						<pupupData title="053" browserUrl="/053-1/" browserTitle="053">
+								<image toggleImage="1" imageAddress="../resources/galleries2/Mojosulur/053.jpg" audioArtwork="" videoTitle="">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>933</fixedSizeWidth>
+									<fixedSizeHeight>700</fixedSizeHeight>
+									<resizeMode>2</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+									<launchUrlOnPress></launchUrlOnPress>
+									<targetUrlOnPress>_self</targetUrlOnPress>
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="0"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+				</content>
+			</productsDisplay>
+			
+		</item>
+
+		<item title="Video" browserUrl="/video-1/" browserTitle="_blank">
+			<productsDisplay>
+				<settings>						
+					<thumbWidth>91</thumbWidth>
+					<thumbHeight>68</thumbHeight>
+					
+					<toggleProportionalResizeOnThumb>1</toggleProportionalResizeOnThumb>
+					
+					<proportionalResizeType>crop</proportionalResizeType>
+					
+					<horizontalSpace>8</horizontalSpace>
+					<verticalSpace>8</verticalSpace>
+					
+					<graphWidth>35</graphWidth>
+					<graphHeight>35</graphHeight>
+					<videoGraf>IDvideoGraph</videoGraf>
+					<pictureGraf>IDimageGraph</pictureGraf>
+					<swfGraf>IDswfGraph</swfGraf>
+					<audioGraf>IDmusicGraph</audioGraf>
+					<youtubeGraf>IDvideoGraph</youtubeGraf>
+					
+					<videoCaption>PLAY</videoCaption>
+					<youtubeCaption>YOUTUBE</youtubeCaption>
+					<imageCaption>LIHAT</imageCaption>
+					<audioCaption>MP3</audioCaption>
+					<swfCaption>SWF</swfCaption>
+					
+					<enableAutoCentering>0</enableAutoCentering>
+					
+					<horizontalNumberOfItems>7</horizontalNumberOfItems>
+					<verticalNumberOfItems>3</verticalNumberOfItems>
+					
+					<scrollAnimationTime>0.5</scrollAnimationTime>
+					<scrollAnimationType>easeoutquart</scrollAnimationType>
+					
+					<toggleTooltip>1</toggleTooltip>
+					<enableTooltipAutoCorrectX>0</enableTooltipAutoCorrectX>
+					<tooltipXCorrect>30</tooltipXCorrect>
+					<tooltipYCorrect>10</tooltipYCorrect>
+
+					<popupWidth>504</popupWidth>
+					<popupHeight>398</popupHeight>
+					
+					<animationAlpha>100</animationAlpha>
+					<animationScale>100</animationScale>
+					
+					<popupProtectTransparency>90</popupProtectTransparency>
+					<popupProtectAnimationTime>0.9</popupProtectAnimationTime>
+					
+					<popupShowAnimationTime>1</popupShowAnimationTime>
+					<popupShowAnimationType>easeoutquart</popupShowAnimationType>
+					
+					<popupHideAnimationTime>1</popupHideAnimationTime>
+					<popupHideAnimationType>easeoutquart</popupHideAnimationType>
+					
+					<popupResizeAnimationTime>0.5</popupResizeAnimationTime>
+					<popupResizeAnimationType>easeinback</popupResizeAnimationType>
+				</settings>
+				<content>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/054.jpg">
+						<tooltipData><![CDATA[Chahun Main Ya Naa (Aashiqui)]]></tooltipData>
+						<pupupData title="Chahun Main Ya Naa (Aashiqui)" browserUrl="video-2" browserTitle="video-2">
+								<image toggleImage="1" imageAddress="../resources/videos/chahun main ya naa VERSI REGGAE DJ.mp4" audioArtwork="" videoTitle="Chahun Main Ya Naa (Aashiqui)">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>1150</fixedSizeWidth>
+									<fixedSizeHeight>480</fixedSizeHeight>
+									<resizeMode>1</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="300"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+				</content>
+			</productsDisplay>
+			
+		</item>
+
+	</content>
+</gallery>

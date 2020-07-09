@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mp3player>	
+	<settings>
+		<togglePlayer>1</togglePlayer>
+		
+		<playlistWidth>300</playlistWidth>
+		<playlistHeight>500</playlistHeight>
+		
+		<autoPlay>1</autoPlay>
+		
+		<onCompleteJumpToNext>1</onCompleteJumpToNext>
+			
+		<shuffleSongs>1</shuffleSongs>
+		
+		<initialVolume>100</initialVolume>
+		<bufferTime>5</bufferTime>
+		
+		<showPlayerEnlargedAtLoad>1</showPlayerEnlargedAtLoad>
+		<showPlaylistEnlargedAtLoad>0</showPlaylistEnlargedAtLoad>
+		
+		<playlistTitleCaption>DAFTAR MUSIK</playlistTitleCaption>
+		
+		<scrollerAccelerationMultiplier>3</scrollerAccelerationMultiplier>
+		
+		<shuffleOnCaption>Hidupkan Mode Acak</shuffleOnCaption>
+		<shuffleOffCaption>Matikan Mode Acak</shuffleOffCaption>
+		
+		<repeatOnCaption>Hidupkan Mode Ulang</repeatOnCaption>
+		<repeatOffCaption>Matikan Mode Ulang</repeatOffCaption>
+		
+		<closePlayerCaption>Tutup Pemutar Musik</closePlayerCaption>
+		<openPlayerCaption>Buka Pemutar Musik</openPlayerCaption>
+		
+		<infoCaption>Sedang Memutar :</infoCaption>
+		<nextSongCaption>Lagu Selanjutnya</nextSongCaption>
+		<prevSongCaption>Lagu Sebelumnya</prevSongCaption>
+		
+		<setVolumeCaption>Set volume ke</setVolumeCaption>
+		<setVolumePer>%</setVolumePer>
+		<muteCaption>Mute</muteCaption>
+		<unmuteCaption>Unmute</unmuteCaption>
+		
+		
+		<playSongCaption>Putar Musik</playSongCaption>
+		<pauseSongCaption>Jeda Musik</pauseSongCaption>
+		
+		<closePlaylistCaption>Tutup Playlist</closePlaylistCaption>
+		<openPlaylistCaption>Buka Playlist</openPlaylistCaption>
+		
+		<seekToCaption>Loncat ke</seekToCaption>		
+		
+	</settings>
+	
+	<playlist>		
+
+		<song>		
+			<url>../resources/musik/Peterpan - Sahabat.mp3</url>
+			<songname>Sahabat</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Iwan Fals - Kemesraan.mp3</url>
+			<songname>Kemesraan</songname>
+			<artist>Iwan Fals</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Gaby - Tinggal Kenangan.mp3</url>
+			<songname>Tinggal Kenangan</songname>
+			<artist>Gaby</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/GOD SAVE THE LELYE feat RENY - Kisah Kita.mp3</url>
+			<songname>Kisah Kita</songname>
+			<artist>GSDL feat Revy</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Zigaz - Sahabat Jadi Cinta.mp3</url>
+			<songname>Sahabat Jadi Cinta</songname>
+			<artist>Zigaz</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Canon Rock.mp3</url>
+			<songname>Instrumental</songname>
+			<artist>Canon Rock</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/dj HDR versi reggae (aashiqui).mp3</url>
+			<songname>Aashiqui</songname>
+			<artist>Tum Hi Ho Ost</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Tum Hi Ho Ost Aashiqui2.mp3</url>
+			<songname>Aashiqui 2</songname>
+			<artist>Tum Hi Ho Ost</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Semua Tentang Kita.mp3</url>
+			<songname>Lubang Hati</songname>
+			<artist>Letto</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Semua Tentang Kita.mp3</url>
+			<songname>Semua Tentang Kita</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Sahabat.mp3</url>
+			<songname>Sahabat</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Separuh Aku.mp3</url>
+			<songname>Separuh Aku</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Menghapus Jejakmu.mp3</url>
+			<songname>Menghapus Jejakmu</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Hari Yang Cerah Untuk Jiwa Yang Sepi.mp3</url>
+			<songname>Hari Yang Cerah</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Peterpan - Sally Sendiri.mp3</url>
+			<songname>Sally Sendiri</songname>
+			<artist>Peterpan</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Andra & The Backbone - Main Hati.mp3</url>
+			<songname>Main Hati</songname>
+			<artist>Andra & The Backbone</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Sheila On 7 - Sahabat Sejati.mp3</url>
+			<songname>Sahabat Sejati</songname>
+			<artist>Sheila On 7</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Cassandra - Cinta Terbaik.mp3</url>
+			<songname>Cinta Terbaik</songname>
+			<artist>Cassandra</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Eren - Takkan Pisah.mp3</url>
+			<songname>Takkan Pisah</songname>
+			<artist>Eren</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/D'Masiv - Jangan Menyerah.mp3</url>
+			<songname>Jangan Menyerah</songname>
+			<artist>D'Masiv</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Agnes Monica - Rapuh.mp3</url>
+			<songname>Rapuh</songname>
+			<artist>Agnes Monica</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Agnes Monica - Karena Ku Sanggup.mp3</url>
+			<songname>Karena Ku Sanggup</songname>
+			<artist>Agnes Monica</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Ada Band - Surga Cinta.mp3</url>
+			<songname>Surga Cinta</songname>
+			<artist>Ada Band</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Ada Band - Pemujamu.mp3</url>
+			<songname>Pemujamu</songname>
+			<artist>Ada Band</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Dewa - Penjaga Hati.mp3</url>
+			<songname>Penjaga Hati</songname>
+			<artist>Dewa</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Laluna - Selepas Kau Pergi.mp3</url>
+			<songname>Selepas Kau Pergi</songname>
+			<artist>Laluna</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Laluna - Sesali Tak Sejak Dulu.mp3</url>
+			<songname>Sesali Tak Sejak Dulu</songname>
+			<artist>Laluna</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Utopia - Mencintamu Sampai Mati.mp3</url>
+			<songname>Mencintamu Sampai Mati</songname>
+			<artist>Utopia</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Utopia - Sampai Habis Waktu.mp3</url>
+			<songname>Sampai Habis Waktu</songname>
+			<artist>Utopia</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Utopia - Selamanya.mp3</url>
+			<songname>Selamanya</songname>
+			<artist>Utopia</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Utopia - Serpihan Hati.mp3</url>
+			<songname>Serpihan Hati</songname>
+			<artist>Utopia</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Ungu - Disini Untukmu.mp3</url>
+			<songname>Disini Untukmu</songname>
+			<artist>Ungu</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Ungu - Luka Disini.mp3</url>
+			<songname>Luka Disini</songname>
+			<artist>Ungu</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Padi - Menanti Sebuah Jawaban.mp3</url>
+			<songname>Menanti Sebuah Jawaban</songname>
+			<artist>Padi</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Padi - Tempat Terakhir.mp3</url>
+			<songname>Tempat Terakhir</songname>
+			<artist>Padi</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Padi - Ternyata Cinta.mp3</url>
+			<songname>Ternyata Cinta</songname>
+			<artist>Padi</artist>			
+		</song>
+
+		<song>		
+			<url>../resources/musik/Vierra - Kesepian.mp3</url>
+			<songname>Kesepian</songname>
+			<artist>Vierra</artist>			
+		</song>
+
+		<!--
+		<song>		
+			<url>../resources/musik/Elsa Safira - Cinta Tak Terbatas Waktu.mp3</url>
+			<songname>Cinta Tak Terbatas Waktu</songname>
+			<artist>Elsa Safira</artist>			
+		</song>
+		-->
+	</playlist>
+	
+</mp3player>

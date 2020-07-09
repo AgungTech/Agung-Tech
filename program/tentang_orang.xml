@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clients>
+	<settings>
+		<moduleWidth>880</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		
+		<moduleMainTitle>Tentang</moduleMainTitle>
+		
+		<maxNumberOfButtonsOnTopMenu>3</maxNumberOfButtonsOnTopMenu>
+		<horizontalSpaceOnTopMenuButtons>10</horizontalSpaceOnTopMenuButtons>
+		
+		<topMaskInitializationAnimationTime>2</topMaskInitializationAnimationTime>
+		<topMaskInitializationAnimationType>easeoutquart</topMaskInitializationAnimationType>
+		
+		<topMaskAnimationTime>0.5</topMaskAnimationTime>
+		<topMaskAnimationType>easeoutquart</topMaskAnimationType>
+
+		<detailsShowAnimationTime>0.5</detailsShowAnimationTime>
+		<detailsShowAnimationType>easeoutquart</detailsShowAnimationType>
+				
+		<detailsHideAnimationTime>0.5</detailsHideAnimationTime>
+		<detailsHideAnimationType>easeoutquart</detailsHideAnimationType>
+	</settings>
+
+	<content>
+			
+		
+
+		<item title="Penyusun" browserUrl="/penyusun/" browserTitle="">
+			<item>
+				<setings>
+					<toggleImageScroller>0</toggleImageScroller>
+					<toggleDescription>1</toggleDescription>
+					<centerScrollerIfDescriptionDisabled>1</centerScrollerIfDescriptionDisabled>
+					<thumbWidth>93</thumbWidth>
+					<thumbHeight>77</thumbHeight>
+					<horizontalNumberOfItems>2</horizontalNumberOfItems>
+					<horizontalSpace>12</horizontalSpace>
+					<verticalNumberOfItems>0</verticalNumberOfItems>
+					<verticalSpace>0</verticalSpace>
+					<toggleProportionalResizeOnThumb>0</toggleProportionalResizeOnThumb>
+					<proportionalResizeType>fit</proportionalResizeType>
+					<scrollerAccelerationMultiplier>3</scrollerAccelerationMultiplier>
+				</setings>
+				<content>
+<![CDATA[<p><img height="540" align="left" width="400" alt="" src="../resources/tentang/SAM_5209-1.png" /></p>
+<p align="center"><font color="#00ccff" size="24"><b><u>Biodata Pengembang</u></b></font></p>
+<p><br />
+<font color="#00ff00" size="16"><b>Nama Lengkap : </b></font><font color="#ffffff" size="14"><u>M. Miftahul Huda Ma'ruf </u></font><br />
+<font color="#00ccff" size="16"><b>Alamat _______: </b></font><font color="#ffffff" size="14">Mojosari</font><br />
+<font color="#ffcc00" size="16"><b>TTL __________: </b></font><font color="#ffffff" size="14"><b>Malang</b>, 05 Oktober 1995</font><br />
+]]>
+				</content>
+			</item>
+		</item>
+
+		<item title="Software Development" browserUrl="/software/" browserTitle="">
+			<item>
+				<setings>
+					<toggleImageScroller>1</toggleImageScroller>
+					<toggleDescription>1</toggleDescription>
+					<centerScrollerIfDescriptionDisabled>0</centerScrollerIfDescriptionDisabled>
+					<thumbWidth>64</thumbWidth>
+					<thumbHeight>64</thumbHeight>
+					<horizontalNumberOfItems>3</horizontalNumberOfItems>
+					<horizontalSpace>12</horizontalSpace>
+					<verticalNumberOfItems>2</verticalNumberOfItems>
+					<verticalSpace>12</verticalSpace>
+					<toggleProportionalResizeOnThumb>0</toggleProportionalResizeOnThumb>
+					<proportionalResizeType>fit</proportionalResizeType>
+					<scrollerAccelerationMultiplier>3</scrollerAccelerationMultiplier>
+				</setings>
+				<content>
+					
+		
+					<image src="../resources/tentang/OXYLUS.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/FL.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/PS.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/FFdec.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/AE.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/SWF.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/Noiseware.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/Bigasoft.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/Sublime.png" url="" target="_blank"></image>
+					<image src="../resources/tentang/Smart.png" url="" target="_blank"></image>
+
+					<![CDATA[<p>Template By :</p>
+<p></p>
+<ul>
+    <li>OXYLUS Development.</li>
+</ul>
+<p></p>
+<p>Software Development :</p>
+<p></p>
+<ul>
+    <li>Adobe Flash CS6.</li>
+    <li>Adobe Photoshop CC 2015.</li>
+    <li>Adobe After Effect CS4.</li>
+    <li>FFDec Decompiler.</li>
+    <li>Sublime Text.</li>
+    <li>Bigasoft Total Video Converter.</li>
+    <li>Noiseware.</li>
+    <li>SWF to EXE Converter.</li>
+    <li>Nitro PDF.</li>
+    <li>Smart Install Maker.</li>
+</ul>
+<p></p>]]>
+				</content>
+			</item>
+		</item>
+
+
+		<item title="Teman PSG" browserUrl="/teman/" browserTitle="">
+			<item>
+				<setings>
+					<toggleImageScroller>1</toggleImageScroller>
+					<toggleDescription>0</toggleDescription>
+					<centerScrollerIfDescriptionDisabled>1</centerScrollerIfDescriptionDisabled>
+					<thumbWidth>120</thumbWidth>
+					<thumbHeight>220</thumbHeight>
+					<horizontalNumberOfItems>5</horizontalNumberOfItems>
+					<horizontalSpace>12</horizontalSpace>
+					<verticalNumberOfItems>1</verticalNumberOfItems>
+					<verticalSpace>12</verticalSpace>
+					<toggleProportionalResizeOnThumb>1</toggleProportionalResizeOnThumb>
+					<proportionalResizeType>crop</proportionalResizeType>
+					<scrollerAccelerationMultiplier>3</scrollerAccelerationMultiplier>
+				</setings>
+				<content>
+					
+		
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/c" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+					<image src="../resources/" url="http://www.google.com" target="_blank"></image>
+
+
+					<![CDATA[]]>
+				</content>
+			</item>
+		</item>
+
+
+	</content>
+</clients>

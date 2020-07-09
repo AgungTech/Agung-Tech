@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contact>
+	<settings>
+		<moduleWidth>880</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		
+		<moduleMainTitle>Kontak</moduleMainTitle>
+		
+		<contactNameCaption>Nama lengkap:</contactNameCaption>
+		<contactEmailCaption>Alamat E-mail:</contactEmailCaption>
+		<contactSubjectCaption>Subjek</contactSubjectCaption>
+		<contactMessageCaption>Pesan:</contactMessageCaption>
+		<contactSendButtonCaption>KIRIM</contactSendButtonCaption>
+		<attachButtonCaption>Tambah File</attachButtonCaption>
+		<attachButtonBrowsingCaption>Mencari file...</attachButtonBrowsingCaption>
+		<enableAttachFileButton>1</enableAttachFileButton>
+		
+		<toggleContactNameRequired>1</toggleContactNameRequired>
+		<toggleContactMessageRequired>1</toggleContactMessageRequired>
+		<toggleSubjectRequired>1</toggleSubjectRequired>
+		
+		<sendingMessageText>Mengirim pesan, Mohon tunggu...</sendingMessageText>
+		
+		<succesText>Tidak dapat mengirim !. Software masih versi demo, tolong update jika sudah tersedia</succesText>
+		
+		<failText>Pesan gagal dikirim !</failText>
+		
+		<wrongNameText>Nama harus di isi...</wrongNameText>
+		<wrongEmailText>Tolong isi alamat E-Mail dengan benar ...</wrongEmailText>
+		<wrongSubjectText>Tolong isi subject...</wrongSubjectText>		
+		<wrongMessageText>Pesan harus di isi...</wrongMessageText>
+		
+		<script>kontak.php</script>
+		<uploadScript>kontak.php</uploadScript>
+		<allowedExtensionsForUpload>pdf|doc|docx|html|jpg|png|xls|xlsx|ppt|pptx|</allowedExtensionsForUpload>
+		<descriptionForUploadFileTypes>diperbolehkan :</descriptionForUploadFileTypes>
+		<wrongExtensionAlert>Extensi Salah, yang diperbolehkan :</wrongExtensionAlert>
+		
+		<htmlFieldWidth>240</htmlFieldWidth>		
+	</settings>
+
+	<content>
+	<![CDATA[<font size="28" color="#4cd0ff">Agung Computer</font><br><br>
+		Seduri<br>Mojosari, Jawa Timur
+	
+	]]>
+	</content>
+
+	<additionalLinks>
+		
+		<item title="Website" url="http://agung-tech.blogspot.com">
+			<![CDATA[http://agung-tech.blogspot.com]]>
+		</item>	
+
+		<item title="E-Mail" url="http://hudamaruf@gmail.com">
+			<![CDATA[hudamaruf@gmail.com]]>
+		</item>	
+
+	</additionalLinks>
+
+</contact>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<homepage>
+	<settings>
+		<moduleWidth>880</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		
+		<moduleMainTitle>Developer</moduleMainTitle>
+	</settings>
+	
+	<content><![CDATA[<p><img height="540" align="left" width="400" alt="" src="../resources/tentang/SAM_5209-1.png" /></p>
+<p align="center"><font color="#00ccff" size="24"><b><u>Biodata Pengembang</u></b></font></p>
+<p><br />
+<font color="#00ff00" size="16"><b>Nama Lengkap : </b></font><font color="#ffffff" size="14"><u>M. Miftahul Huda Ma'ruf </u></font><br />
+<font color="#00ccff" size="16"><b>Alamat _______: </b></font><font color="#ffffff" size="14">Mojosari</font><br />
+<font color="#ffcc00" size="16"><b>TTL __________: </b></font><font color="#ffffff" size="14"><b>Malang</b>, 05 Oktober 1995</font><br />
+<u>underline</u> <font color="#ffc000" size="14"><b>color</b></font> or <b><font color="#ffffff" size="18">size</font></b></p>
+
+]]></content>
+</homepage>

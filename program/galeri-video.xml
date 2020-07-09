@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<settings>
+		<moduleWidth>880</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		
+		<moduleMainTitle>Galeri Desember</moduleMainTitle>
+		
+		<maxNumberOfButtonsOnTopMenu>3</maxNumberOfButtonsOnTopMenu>
+		<horizontalSpaceOnTopMenuButtons>10</horizontalSpaceOnTopMenuButtons>
+		
+		<topMaskInitializationAnimationTime>2</topMaskInitializationAnimationTime>
+		<topMaskInitializationAnimationType>easeoutquart</topMaskInitializationAnimationType>
+		
+		<topMaskAnimationTime>0.5</topMaskAnimationTime>
+		<topMaskAnimationType>easeoutquart</topMaskAnimationType>
+
+		<detailsShowAnimationTime>0.5</detailsShowAnimationTime>
+		<detailsShowAnimationType>easeoutquart</detailsShowAnimationType>
+
+		<detailsHideAnimationTime>0.5</detailsHideAnimationTime>
+		<detailsHideAnimationType>easeoutquart</detailsHideAnimationType>
+	</settings>
+	
+	<content>
+
+		<item title="Video" browserUrl="/video-1/" browserTitle="_blank">
+			<productsDisplay>
+				<settings>						
+					<thumbWidth>91</thumbWidth>
+					<thumbHeight>68</thumbHeight>
+					
+					<toggleProportionalResizeOnThumb>1</toggleProportionalResizeOnThumb>
+					
+					<proportionalResizeType>crop</proportionalResizeType>
+					
+					<horizontalSpace>8</horizontalSpace>
+					<verticalSpace>8</verticalSpace>
+					
+					<graphWidth>35</graphWidth>
+					<graphHeight>35</graphHeight>
+					<videoGraf>IDvideoGraph</videoGraf>
+					<pictureGraf>IDimageGraph</pictureGraf>
+					<swfGraf>IDswfGraph</swfGraf>
+					<audioGraf>IDmusicGraph</audioGraf>
+					<youtubeGraf>IDvideoGraph</youtubeGraf>
+					
+					<videoCaption>PLAY</videoCaption>
+					<youtubeCaption>YOUTUBE</youtubeCaption>
+					<imageCaption>LIHAT</imageCaption>
+					<audioCaption>MP3</audioCaption>
+					<swfCaption>SWF</swfCaption>
+					
+					<enableAutoCentering>0</enableAutoCentering>
+					
+					<horizontalNumberOfItems>7</horizontalNumberOfItems>
+					<verticalNumberOfItems>3</verticalNumberOfItems>
+					
+					<scrollAnimationTime>0.5</scrollAnimationTime>
+					<scrollAnimationType>easeoutquart</scrollAnimationType>
+					
+					<toggleTooltip>1</toggleTooltip>
+					<enableTooltipAutoCorrectX>0</enableTooltipAutoCorrectX>
+					<tooltipXCorrect>30</tooltipXCorrect>
+					<tooltipYCorrect>10</tooltipYCorrect>
+
+					<popupWidth>504</popupWidth>
+					<popupHeight>398</popupHeight>
+					
+					<animationAlpha>100</animationAlpha>
+					<animationScale>100</animationScale>
+					
+					<popupProtectTransparency>90</popupProtectTransparency>
+					<popupProtectAnimationTime>0.9</popupProtectAnimationTime>
+					
+					<popupShowAnimationTime>1</popupShowAnimationTime>
+					<popupShowAnimationType>easeoutquart</popupShowAnimationType>
+					
+					<popupHideAnimationTime>1</popupHideAnimationTime>
+					<popupHideAnimationType>easeoutquart</popupHideAnimationType>
+					
+					<popupResizeAnimationTime>0.5</popupResizeAnimationTime>
+					<popupResizeAnimationType>easeinback</popupResizeAnimationType>
+				</settings>
+				<content>
+
+					<item thumb="../resources/galleries2/Mojosulur/kecil/055.jpg">
+						<tooltipData><![CDATA[Harris J - I Promise]]></tooltipData>
+						<pupupData title="Harris J - I Promise" browserUrl="video-3" browserTitle="video-3">
+								<image toggleImage="1" imageAddress="../resources/videos/Harris J - I Promise.mp4" audioArtwork="" videoTitle="Harris J - I Promise">
+									<autoResize>0</autoResize>
+									<fixedSizeWidth>840</fixedSizeWidth>
+									<fixedSizeHeight>480</fixedSizeHeight>
+									<resizeMode>1</resizeMode>
+									<autoplay>1</autoplay>
+									<repeat>1</repeat>
+									<initialVolume>100</initialVolume>	
+
+								</image>
+								<description toggleDescription="0" descriptionWidth="300"><![CDATA[]]></description>
+						</pupupData>
+					</item>
+
+				</content>
+			</productsDisplay>
+			
+		</item>
+
+	</content>
+</gallery>

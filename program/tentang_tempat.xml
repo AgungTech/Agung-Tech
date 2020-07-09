@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+	<settings>
+		<moduleWidth>880</moduleWidth>
+		<moduleHeight>320</moduleHeight>
+		
+		<moduleMainTitle>Lokasi</moduleMainTitle>
+		
+		<maxNumberOfButtonsOnTopMenu>3</maxNumberOfButtonsOnTopMenu>
+		<horizontalSpaceOnTopMenuButtons>10</horizontalSpaceOnTopMenuButtons>
+		
+		<topMaskInitializationAnimationTime>2</topMaskInitializationAnimationTime>
+		<topMaskInitializationAnimationType>easeoutquart</topMaskInitializationAnimationType>
+		
+		<topMaskAnimationTime>0.5</topMaskAnimationTime>
+		<topMaskAnimationType>easeoutquart</topMaskAnimationType>
+
+		<detailsShowAnimationTime>0.5</detailsShowAnimationTime>
+		<detailsShowAnimationType>easeoutquart</detailsShowAnimationType>
+		
+		<detailsHideAnimationTime>0.5</detailsHideAnimationTime>
+		<detailsHideAnimationType>easeoutquart</detailsHideAnimationType>
+	</settings>
+	
+	<content>
+			
+
+		<item title="Agung Computer" browserUrl="/agung-computer/" browserTitle="Agung Computer">
+			<productsDisplay toggleProductsDisplay="0">
+				<settings>						
+					<thumbWidth>239</thumbWidth>
+					<thumbHeight>158</thumbHeight>
+					<toggleProportionalResizeOnThumb>0</toggleProportionalResizeOnThumb>
+					<proportionalResizeType>crop</proportionalResizeType>
+					<horizontalSpace>12</horizontalSpace>
+					<verticalSpace>12</verticalSpace>
+					<horizontalNumberOfItems>3</horizontalNumberOfItems>
+					<scrollAnimationTime>0.5</scrollAnimationTime>
+					<scrollAnimationType>easeoutquart</scrollAnimationType>
+					<toggleTooltip>1</toggleTooltip>
+					<enableTooltipAutoCorrectX>0</enableTooltipAutoCorrectX>
+					<tooltipXCorrect>30</tooltipXCorrect>
+					<tooltipYCorrect>10</tooltipYCorrect>
+				</settings>
+				<content>
+
+				</content>
+			</productsDisplay>
+			<description toggleDescription="1"><![CDATA[<p>Kosong</p>]]></description>
+		</item>
+
+		<item title="Lebih Lanjut" browserUrl="/lebih-lanjut/" browserTitle="Lebih Lanjut">
+			<productsDisplay toggleProductsDisplay="1">
+				<settings>						
+					<thumbWidth>239</thumbWidth>
+					<thumbHeight>158</thumbHeight>
+					<toggleProportionalResizeOnThumb>0</toggleProportionalResizeOnThumb>
+					<proportionalResizeType>crop</proportionalResizeType>
+					<horizontalSpace>12</horizontalSpace>
+					<verticalSpace>12</verticalSpace>
+					<horizontalNumberOfItems>3</horizontalNumberOfItems>
+					<scrollAnimationTime>0.5</scrollAnimationTime>
+					<scrollAnimationType>easeoutquart</scrollAnimationType>
+					<toggleTooltip>1</toggleTooltip>
+					<enableTooltipAutoCorrectX>0</enableTooltipAutoCorrectX>
+					<tooltipXCorrect>30</tooltipXCorrect>
+					<tooltipYCorrect>10</tooltipYCorrect>
+				</settings>
+				<content>
+
+					<item thumb="../resources/lokasi/1.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 1]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/2.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 2]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/3.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 3]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/4.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 4]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/5.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 5]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/6.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 6]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/7.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 7]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/8.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 8]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/9.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 9]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/10.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 10]]></tooltipData>
+					</item>
+
+					<item thumb="../resources/lokasi/11.jpg" url="" target="_blank">
+						<tooltipData><![CDATA[Detail 11]]></tooltipData>
+					</item>
+
+				</content>
+			</productsDisplay>
+			<description toggleDescription="1"><![CDATA[<p>Penjualan Agung Computer</p>]]></description>
+		</item>
+
+
+	</content>
+
+</services>
